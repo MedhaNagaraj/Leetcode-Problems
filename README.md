@@ -10,3 +10,6 @@ https://leetcode.com/problemset/database/
 References:
 https://www.geeksforgeeks.org/
 https://leetcode.com/problemset/
+
+# 3. August Leetcode Challenge
+https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/
